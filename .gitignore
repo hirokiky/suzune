@@ -1,0 +1,16 @@
+*.egg
+*.egg-info
+*.pyc
+*$py.class
+*~
+\.coverage
+coverage.xml
+htmlcov/
+nosetests.xml
+.*.sw?
+.sw?
+.DS_Store
+.idea/
+.tox/
+dist/
+build/
